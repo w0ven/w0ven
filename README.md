@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=80&color=8B9CB6&center=true&vCenter=true&repeat=false&width=360&height=32&lines=Hi%2C+I'm+kele" alt="Hi, I'm kele" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=80&color=8B9CB6&center=true&vCenter=true&repeat=false&width=360&height=32&lines=Hi%2C+I'm+kele" alt="Hi, I'm w0ven" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=C4CDD6&center=true&vCenter=true&repeat=false&width=520&height=28&lines=Networks+%7C+Automation+%7C+Quiet+Infrastructure" alt="Networks | Automation | Quiet Infrastructure" />
 
